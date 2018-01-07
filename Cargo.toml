@@ -1,0 +1,10 @@
+[package]
+name = "hyperloglog"
+version = "0.1.0"
+authors = ["Kenneth Blomqvist", "Ville Toiviainen"]
+
+[dependencies]
+rand = "0.3"
+rayon = "0.9"
+csv = "1.0.0-beta.5"
+num-bigint = "0.1.41"
